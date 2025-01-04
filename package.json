@@ -1,0 +1,30 @@
+{
+  "name": "ephoto-api-faris",
+  "version": "1.0.0",
+  "description": "A Node.js package for generating custom image effects using the ePhoto360 API, developed by Faris Ali.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+  "textpro","textpro.me", "textpro-tools", "textpro-effect", "textpro-image", "textpro-online", 
+  "photooxy", "photooxy-effects", "photooxy-editor", "photooxy-online", "photooxy-creator", 
+  "ephoto360", "ephoto360-tools", "ephoto360-effects", "ephoto360-editor", "ephoto360-online", 
+  "photo-effects", "text-effects", "image-effects", "online-photo-effects", "photo-creator"
+],
+  "author": "Faris Ali",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/how-faris/ephoto-api-faris.git"
+  },
+  "bugs": {
+    "url": "https://github.com/how-faris/ephoto-api-faris/issues"
+  },
+  "homepage": "https://github.com/how-faris/ephoto-api-faris#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "form-data": "^4.0.1"
+  }
+}
